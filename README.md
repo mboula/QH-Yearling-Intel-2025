@@ -48,4 +48,4 @@ Real-time data will include:
 Stay tuned & gallop with us into a smarter, more transparent future for horse performance data.
 -
 **Michelle Boula**
-[Founder, The Paddock Prospect]
+*Founder, The Paddock Prospect*
