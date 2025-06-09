@@ -1,4 +1,4 @@
-# ThePaddockProspect
+# The Paddock Prospect
 Bloodline intelligence for Quarter Horse racing. A data project rooted in equine appraisal, performance trends, and sale forecasting.
 
 Welcome to The Paddock Prospect — a data-driven project founded by Michelle Boula, a former equine appraiser turned data analyst, merging passion for performance horses with sharp pattern recognition and analytical skill.
